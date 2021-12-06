@@ -201,6 +201,7 @@ body {
   overflow: hidden;
 }
 .v1_13 {
+  float: right;
   width: 685px;
   height: 96px;
   background: rgba(240,200,153,1);
@@ -215,6 +216,7 @@ body {
   overflow: hidden;
 }
 .v1_26 {
+  float: left;
   width: 158px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -227,6 +229,7 @@ body {
   text-align: center;
 }
 .v2_12 {
+  float: center;
   width: 603px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -275,6 +278,7 @@ body {
   text-align: center;
 }
 .v3_5 {
+  float: center;
   width: 271px;
   color: rgba(0,0,0,1);
   position: absolute;
