@@ -154,6 +154,7 @@ body {
   overflow: hidden;
 }
 .v2_16 {
+  float: left;
   width: 584px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -243,7 +244,7 @@ body {
   text-align: center;
 }
 .v2_17 {
-  float: right;
+  float: center;
   width: 214px;
   color: rgba(0,0,0,1);
   position: relative;
@@ -253,6 +254,8 @@ body {
   font-weight: Bold Italic;
   font-size: 20px;
   opacity: 1;
+  border: 1px solid;
+  border-radius: 60;
   text-align: center;
 }
 .v3_2 {
