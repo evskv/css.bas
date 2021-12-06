@@ -53,6 +53,7 @@ body {
   overflow: hidden;
 }
 .v2_13 {
+  float: center;
   width: 158px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -242,6 +243,7 @@ body {
   text-align: center;
 }
 .v2_17 {
+  float: center;
   width: 214px;
   color: rgba(0,0,0,1);
   position: absolute;
